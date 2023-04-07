@@ -6,7 +6,7 @@ The program I've written includes two separate parts, designed to connect two co
 
 This software was written to help me understand the abilities of network modules within Python. I was able to practice sending and receiving data using the built in network modules. I also ran **pip install python-dotenv** to use the .env file.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lD0WhWyWb8Q)
 
 # Network Communication
 
